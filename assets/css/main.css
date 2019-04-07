@@ -1687,7 +1687,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: lightseagreen;
+		background-color: darkcyan;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1698,7 +1698,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: lightseagreen;
+			background-color: darkcyan;
 			color: #fff !important;
 		}
 
@@ -1707,7 +1707,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: lightseagreen;
+			background-color: darkcyan;
 			top: 1px;
 		}
 
@@ -1983,7 +1983,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: none;
+			background-image: linear-gradient(whitesmoke, lightseagreen, whitesmoke);
 			background-color: #fff;
 		}
 
